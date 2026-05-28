@@ -27,7 +27,7 @@ identifies all open problems.
 | sin²θ₁₃ (reactor) | 1/45 = 0.02222 | 0.02220 ± 0.00070 | +0.032σ | ✓ |
 | Neutrino hierarchy | Normal (proved) | NH preferred | — | ✓ |
 | sin²θ_W | ln(2)/3 = 0.23105 | 0.23122 | 0.07% | ✓ |
-| τ mass | 1,768.9 MeV | 1,776.86 MeV | −0.45% | ✓ |
+| τ mass | 1,775.7 MeV | 1,776.86 MeV | −0.07% | ✓ |
 | μ mass | 105.64 MeV | 105.658 MeV | −0.02% | ✓ |
 | e mass | 0.5106 MeV | 0.51100 MeV | −0.08% | ✓ |
 | proton mass | 937.03 MeV | 938.272 MeV | −0.13% | ✓ |
