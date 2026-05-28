@@ -1,0 +1,7 @@
+# EDEM verification scripts — Python 3 standard library only
+# No external packages are required for the core arithmetic:
+#   fractions, itertools, math are all part of the standard library.
+#
+# NumPy is used only for the floating-point 3x3 matrix work in
+# verification/pmns_unitary_embed.py:
+numpy>=1.20
