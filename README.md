@@ -5,6 +5,15 @@
 
 ---
 
+## Preprints
+
+| Paper | Zenodo | Description |
+|---|---|---|
+| Paper B — Entropy Driven Expansion Model: The Particle Sector | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20433300.svg)](https://doi.org/10.5281/zenodo.20433300) | Physics paper: P1–P5 postulates, 10 fermion masses, PMNS |
+| Paper A — A Note on the Intersection of the σ-Lattice and the Sixth Cyclotomic Tower | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20433200.svg)](https://doi.org/10.5281/zenodo.20433200) | Arithmetic foundation: 4 theorems, no physical claims |
+
+---
+
 ## Summary
 
 EDEM is a theoretical physics framework proposing that the Standard Model
