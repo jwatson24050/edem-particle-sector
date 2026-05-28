@@ -92,7 +92,7 @@ how to read its output.
 
 If you use this work, please cite:
 
-> Watson, J. *"Entropic Discrete Emergence Model: The Particle Sector."* Preprint, 2026.
+> Watson, J. *"Entropy Driven Expansion Model: The Particle Sector."* Preprint, 2026.
 
 > Watson, J. *"A Note on the Intersection of the σ-Lattice and the Sixth Cyclotomic Tower."* Preprint, 2026.
 
