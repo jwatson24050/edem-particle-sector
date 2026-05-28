@@ -1,4 +1,4 @@
-# Entropic Discrete Emergence Model — Particle Sector
+# Entropy Driven Expansion Model — Particle Sector
 **Author:** J. Watson · Independent Researcher  
 **Status:** Preprint — May 2026  
 **Papers:** [Paper A (math note)](#paper-a) · [Paper B (physics)](#paper-b)
